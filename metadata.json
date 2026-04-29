@@ -1,0 +1,12 @@
+{
+  "name": "SMK Prima Unggul Portal",
+  "description": "Integrated Online Exam and Attendance System for SMK Prima Unggul with anti-cheating triggers and staff monitoring.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "auth",
+    "database"
+  ]
+}
